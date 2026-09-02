@@ -1,8 +1,8 @@
-# Movie Info Extractor
+# 🎬 Movie Info Extractor
 
 A Generative AI application that extracts structured movie information from an unstructured movie description.
 
-## Features
+## 🚀 Features
 
 * Extracts movie title
 * Extracts release year
@@ -14,7 +14,7 @@ A Generative AI application that extracts structured movie information from an u
 * Returns structured JSON output
 * Simple and interactive Streamlit interface
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Streamlit
@@ -22,7 +22,7 @@ A Generative AI application that extracts structured movie information from an u
 * Mistral AI
 * Pydantic
 
-## How It Works
+## 🧠 How It Works
 
 The application takes a movie description as input and sends it to a Mistral AI model through LangChain.
 
@@ -44,7 +44,7 @@ Structured Movie Information
 Streamlit UI
 ```
 
-## Extracted Information
+## 📋 Extracted Information
 
 The application extracts:
 
@@ -58,7 +58,7 @@ Rating
 Summary
 ```
 
-##  Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -73,7 +73,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-## Environment Variables
+## 🔑 Environment Variables
 
 Create a `.env` file:
 
@@ -81,7 +81,7 @@ Create a `.env` file:
 MISTRAL_API_KEY=your_api_key_here
 ```
 
-## Run the Application
+## ▶️ Run the Application
 
 Start the Streamlit application:
 
@@ -91,7 +91,7 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## Purpose
+## 🎯 Purpose
 
 This project was built to practice Generative AI concepts, including:
 
@@ -102,7 +102,7 @@ This project was built to practice Generative AI concepts, including:
 * LangChain
 * Streamlit application development
 
-## Author
+## 👨‍💻 Author
 
 **Zohaib Ali Thaheem**
 
